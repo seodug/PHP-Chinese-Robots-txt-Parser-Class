@@ -13,4 +13,3 @@ var_dump($tuniuParser->isAllowed('http://menpiao.tuniu.com/s_%E4%B8%BB%E9%A2%98%
 var_dump($tuniuParser->isAllowed('http://menpiao.tuniu.com/s_真人扎金花'));
 
 var_dump($lvmamaParser->getSitemap());
-?>
